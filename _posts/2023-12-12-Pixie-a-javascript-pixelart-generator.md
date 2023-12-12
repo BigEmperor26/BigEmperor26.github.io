@@ -5,18 +5,17 @@ subtitle: A JavaScript PixelArt Generator
 # cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/Pixie/kanegawa.png
 # share-img: /assets/img/path.jpg
-tags: [books, test]
 author: Sharon Smith and Barry Simpson
 gh-repo: BigEmperor26/Pixie
 gh-badge: [star, fork, follow]
-tags: [OpenCV]
+tags: [OpenCV, JavaScript]
 comments: true
 author: Michele Yin
 ---
 
 ## Powered by OpenCV
 
-I present here Pixie - A Javascript PixelArt Generator. 
+I present here [Pixie - A Javascript PixelArt Generator](https://pixie-alpha.vercel.app/). 
 
 The reason to why I decided to make this simple website was simple. I wanted a simple way to generate good-looking PixelArt without spending the hundreds of hours in coloring each pixel.
 
