@@ -16,7 +16,6 @@ author: Michele Yin
 
 ## Powered by OpenCV
 
-{: .box}
 I present here Pixie - A Javascript PixelArt Generator. 
 
 The reason to why I decided to make this simple website was simple. I wanted a simple way to generate good-looking PixelArt without spending the hundreds of hours in coloring each pixel.
@@ -25,10 +24,10 @@ The reason to why I decided to make this simple website was simple. I wanted a s
 This was a very simple project I wanted to create in my free time, to reinforce my knownledge of OpenCV and creating a simple HTML page.
 
 ### Example
-|Original|Pixie|
-|:---|:---|
-|![Image](../assets/img/Pixie/img.png)|![Image](../assets/img/Pixie/luffy-5px.png)|
-|![Image](../assets/img/Pixie/obama.jpeg)|![Image](../assets/img/Pixie/Obama%20pix.png)|
+| Original | Pixie |
+| :----- | :----- |
+| ![Image](../assets/img/Pixie/img.png) | ![Image](../assets/img/Pixie/luffy-5px.png) |
+| ![Image](../assets/img/Pixie/obama.jpeg) | ![Image](../assets/img/Pixie/Obama%20pix.png) |
 ### How it works
 
 
