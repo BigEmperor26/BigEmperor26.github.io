@@ -30,7 +30,8 @@ This was a very simple project I wanted to create in my free time, to reinforce 
 
 | Original | Pixie |
 | :----- | :----- |
-|||
+|<img src="../assets/img/Pixie/img.png">|<img src="../assets/img/Pixie/luffy-5px.png">|
+|<img src="../assets/img/Pixie/obama.jpeg">|<img src="../assets/img/Pixie/Obama%20pix.png">|
 
 ### How it works
 
