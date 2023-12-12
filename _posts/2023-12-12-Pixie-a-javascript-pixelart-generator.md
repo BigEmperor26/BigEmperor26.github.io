@@ -2,20 +2,21 @@
 layout: post
 title: Pixie
 subtitle: A JavaScript PixelArt Generator
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+# cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/Pixie/kanegawa.png
+# share-img: /assets/img/path.jpg
 tags: [books, test]
 author: Sharon Smith and Barry Simpson
 gh-repo: BigEmperor26/Pixie
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [OpenCV]
 comments: true
 author: Michele Yin
 ---
 
 ## Powered by OpenCV
 
+{: .box}
 I present here Pixie - A Javascript PixelArt Generator. 
 
 The reason to why I decided to make this simple website was simple. I wanted a simple way to generate good-looking PixelArt without spending the hundreds of hours in coloring each pixel.
@@ -25,7 +26,7 @@ This was a very simple project I wanted to create in my free time, to reinforce 
 
 ### Example
 |Original|Pixie|
-|---|---|
+|:---|:---|
 |![Image](../assets/img/Pixie/img.png)|![Image](../assets/img/Pixie/luffy-5px.png)|
 |![Image](../assets/img/Pixie/obama.jpeg)|![Image](../assets/img/Pixie/Obama%20pix.png)|
 ### How it works
