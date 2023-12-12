@@ -5,7 +5,6 @@ subtitle: A JavaScript PixelArt Generator
 # cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/Pixie/kanegawa.png
 # share-img: /assets/img/path.jpg
-author: Sharon Smith and Barry Simpson
 gh-repo: BigEmperor26/Pixie
 gh-badge: [star, fork, follow]
 tags: [OpenCV, JavaScript]
