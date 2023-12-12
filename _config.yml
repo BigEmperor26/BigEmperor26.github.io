@@ -22,7 +22,7 @@ author: Michele Yin
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Pixie \- A JavaScript PixelArt generator: "https://pixie-alpha.vercel.app/"
+    - Pixie - A JavaScript PixelArt generator: "https://pixie-alpha.vercel.app/"
   Publications:
     - Let's Give a Voice to Conversational Agents in VR: "https://www.isca-speech.org/archive/interspeech_2023/yin23b_interspeech.html"
   # Author's home: "https://.com"
